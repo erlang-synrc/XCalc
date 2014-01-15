@@ -76,6 +76,7 @@
 #define LN_N	4
 #define RANGE	5
 #define X1_ER     6
+#define PI 3.14159265358969323
 
 /* The Preferences
  */
